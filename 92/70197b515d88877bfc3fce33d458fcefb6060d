@@ -1,0 +1,59 @@
+helpers/compare-json.json
+  c1f9418c271df784 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "9270197b515d88877bfc3fce33d458fcefb6060d",
+  "prompts": {
+    "1a6c56f4db8d886c": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a1584262b65b5b7f6728393",
+        "model": "c_o_new__dev"
+      },
+      "human_author": "unitstack <unitstackio@gmail.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "3b8771dcefd1550e": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-d7645c9d-5bba-488a-a3d7-f1a855cc2fa2",
+        "model": "default"
+      },
+      "human_author": "unitstack <unitstackio@gmail.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "c1f9418c271df784": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-a3c67440-1ff5-48a0-ac80-a687f8eece68",
+        "model": "default"
+      },
+      "human_author": "unitstack <unitstackio@gmail.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {
+    "1a6c56f4db8d886c": {
+      "tool": "trae",
+      "conversation_id": "6a1584262b65b5b7f6728393",
+      "session_id": "6a1584262b65b5b7f6728393",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    }
+  }
+}
