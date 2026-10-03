@@ -1,0 +1,14 @@
+{
+  "name": "Mermaid Design",
+  "desc": "Mermaid diagram editor with SVG and ASCII rendering, custom themes, and image export.",
+  "url": "https://mermaid.design",
+  "tags": [
+    "Diagrams",
+    "Images",
+    "SVG"
+  ],
+  "maintainers": [
+    "unitstack"
+  ],
+  "addedAt": "2026-10-03"
+}
